@@ -1,0 +1,49 @@
+Date,Event,Impact,Previous,Consensus,Actual,Currency
+"2015, March 13, 01:00","(United States) 30-Year Bond Auction",Low,2.56%,,2.681%,USD
+"2015, March 13, 02:00","(United States) Monthly Budget Statement",Low,-$18.00B,$-187.0B,-$192.00B,USD
+"2015, March 13, 05:30","(New Zealand) Business NZ PMI",Medium,50.90,,55.90,NZD
+"2015, March 13, 08:00","(Peru) Interest rate decision",Low,3.25%,,3.25%,PEI
+"2015, March 13, 12:30","(Japan) Capacity Utilization",Low,2.0%,,3.6%,JPY
+"2015, March 13, 12:30","(Japan) Industrial Production (MoM)",Low,0.8%,,3.7%,JPY
+"2015, March 13, 12:30","(Japan) Industrial Production (YoY)",Medium,1.0%,,-2.8%,JPY
+"2015, March 13, 13:00","(Singapore) Retail Sales (MoM)",Low,-2.00,,4.80,SGD
+"2015, March 13, 13:00","(Singapore) Retail Sales (YoY)",Low,2.60,,-5.00,SGD
+"2015, March 13, 15:00","(Finland) Current Account",Low,€0.10B,,-€0.50B,EUR
+"2015, March 13, 15:00","(Czech Republic) Construction output (YoY)",Low,-6.6%,,5.8%,CZK
+"2015, March 13, 15:00","(Finland) Consumer Price Index (YoY)",Low,-0.2%,,-0.1%,EUR
+"2015, March 13, 15:00","(Finland) Gross Domestic Product (YoY)",Low,-1.2%,,0.7%,EUR
+"2015, March 13, 15:00","(Germany) Wholesale Price Index (MoM)",Low,-0.4%,,0.5%,EUR
+"2015, March 13, 15:00","(Germany) Wholesale Price Index (YoY)",Low,-2.6%,,-2.1%,EUR
+"2015, March 13, 16:00","(Czech Republic) Industrial Production (YoY)",Low,7.3%,,2.9%,CZK
+"2015, March 13, 16:00","(Czech Republic) Retail Sales (YoY)",Low,5.9%,,6.4%,CZK
+"2015, March 13, 17:00","(Italy) Consumer Price Index (EU Norm) (MoM)",Low,-2.5%,0.3%,0.3%,EUR
+"2015, March 13, 17:00","(Italy) Consumer Price Index (EU Norm) (YoY)",Low,-0.5%,0.1%,0.1%,EUR
+"2015, March 13, 17:00","(Italy) Consumer Price Index (MoM)",Low,-0.4%,0.3%,0.4%,EUR
+"2015, March 13, 17:00","(Italy) Consumer Price Index (YoY)",Low,-0.6%,-0.2%,-0.1%,EUR
+"2015, March 13, 17:30","(Netherlands, The) Manufacturing Output (MoM)",Low,0.1%,,,EUR
+"2015, March 13, 18:00","(India) Trade Deficit Government",Low,$8.32B,,$6.80B,INR
+"2015, March 13, 18:44","(Russia) Interest rate decision",Medium,15.0%,,14.0%,RUB
+"2015, March 13, 19:00","(Ireland) HICP (MoM)",Low,-0.7%,,0.6%,EUR
+"2015, March 13, 19:00","(Ireland) Consumer Price Index (MoM)",Low,-0.8%,,0.6%,EUR
+"2015, March 13, 19:00","(Ireland) Consumer Price Index (YoY)",Low,-0.6%,,-0.5%,EUR
+"2015, March 13, 19:00","(Ireland) HICP (YoY)",Low,-0.4%,,-0.4%,EUR
+"2015, March 13, 19:30","(India) FX Reserves, USD",Low,$338.08B,,$337.79B,INR
+"2015, March 13, 20:00","(Russia) Foreign Trade",Low,$12.90B,,,RUB
+"2015, March 13, 20:00","(Brazil) Retail Sales (MoM)",Low,-2.6%,,0.8%,BRL
+"2015, March 13, 20:30","(Canada) Net Change in Employment",High,35.40K,-5.0K,-1.00K,CAD
+"2015, March 13, 20:30","(Canada) Participation rate",Low,65.7%,65.7%,65.8%,CAD
+"2015, March 13, 20:30","(United States) Producer Price Index (MoM)",Low,-0.8%,0.3%,-0.5%,USD
+"2015, March 13, 20:30","(United States) Producer Price Index (YoY)",Medium,0.0%,0.0%,-0.6%,USD
+"2015, March 13, 20:30","(United States) Producer Price Index ex Food & Energy (MoM)",Low,-0.1%,0.1%,-0.5%,USD
+"2015, March 13, 20:30","(United States) Producer Price Index ex Food & Energy (YoY)",Low,1.6%,1.6%,1.0%,USD
+"2015, March 13, 20:30","(Canada) Unemployment Rate",High,6.6%,6.7%,6.8%,CAD
+"2015, March 13, 21:00","(Poland) Consumer Price Index (MoM)",Low,-0.2%,,-0.1%,PLN
+"2015, March 13, 21:00","(Poland) Consumer Price Index (YoY)",Low,-1.3%,,-1.6%,PLN
+"2015, March 13, 21:00","(Poland) M3 Money Supply (YoY)",Low,8.5%,,8.8%,PLN
+"2015, March 13, 21:55","(United States) Reuters/Michigan Consumer Sentiment Index",High,95.40,95.5,91.20,USD
+"2015, March 13, 22:00","(Mexico) Industrial Output (MoM)",Low,-0.3%,,,MXN
+"2015, March 13, 22:00","(Mexico) Industrial Output (YoY)",Low,3.0%,,0.3%,MXN
+"2015, March 14, 06:00","(Colombia) Industrial ouput (YoY)",Low,2.10,,,COP
+"2015, March 14, 06:00","(Colombia) Retail Sales (YoY)",Low,9.60,,,COP
+"2015, March 15, 08:00","(Hungary) National Day ",None,,,,HUF
+

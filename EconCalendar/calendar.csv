@@ -1,0 +1,6 @@
+,actual,currency,forecast,impact,market,previous,region,timestamp,title,unit
+0,-0.5,USD,0.1,2,0.1,-0.1,americas,1426249800,PPI (ex Food & Energy),% m/m
+1,-0.5,USD,0.2,2,0.3,-0.8,americas,1426249800,PPI,% m/m
+2,-1.0,CAD,-5,2,-5,35.4,americas,1426249800,Net Change in Employment,k
+3,6.8,CAD,6.6,2,6.7,6.6,americas,1426249800,Unemployment,%
+4,91.2,USD,96.3,2,95.5,95.4,americas,1426255200,Univ of Mich Sent. (Prelim.),index
